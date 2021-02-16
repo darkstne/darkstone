@@ -1,4 +1,7 @@
-# Darkstone
-It's the network made for you.
- 
-![Address](https://img.shields.io/badge/ip-darkst.one-ff9500?style=flat-square) ![Forum](https://img.shields.io/badge/forum-talk.darkst.one-ff9500?style=flat-square) ![Discord](https://img.shields.io/discord/782808436118650890?color=7289DA&label=chat&logo=discord&logoColor=fff&style=flat-square) ![Twitter Follow](https://img.shields.io/twitter/follow/darkstne?color=1da1f2&label=follow&logo=twitter&style=flat-square) ![GitHub watchers](https://img.shields.io/github/watchers/darkstne/darkstone?color=229954&label=watch&logo=github&style=flat-square)
+# [Darkstone](https://darkst.one) [-- darkst.one](https://darkst.one)
+[![Address](https://img.shields.io/badge/ip-darkst.one-ff9500?style=flat-square)](https://darkst.one/hc/getting-started#server-basics) [![Forum](https://img.shields.io/badge/forum-talk.darkst.one-ff9500?style=flat-square)](https://darkst.one/forum) [![Discord](https://img.shields.io/discord/782808436118650890?color=7289DA&label=chat&logo=discord&logoColor=fff&style=flat-square)](https://darkst.one/discord) [![Twitter Follow](https://img.shields.io/twitter/follow/darkstne?color=1da1f2&label=follow&logo=twitter&style=flat-square)](https://darkst.one/twitter) [![GitHub watchers](https://img.shields.io/github/watchers/darkstne/darkstone?color=229954&label=watch&logo=github&style=flat-square)](https://github.com/darkstne/darkstone/watchers)
+
+👋 Welcome to the network made for you. We've been around since December 2nd, 2020 and are eager to show you what we have in store. It's a Minecraft network-- made for your laptop and phone for the latest version of the game packed full of features. A staff team that has your back and a community that's ready to show you how to grow and explore. So what are you waiting for? Around here we enjoy 🎮 playing games, 💬 sharing our interests 🌎 and involving people from all around the world. 
+
+## 🚀 Projects
+[![Website](https://img.shields.io/badge/-server%20website-202020?style=flat-square&logo=github)](https://github.com/darkstne/website) | [![Bot](https://img.shields.io/badge/-server%20discord%20bot-202020?style=flat-square&logo=github)](https://github.com/darkstne/bot)
